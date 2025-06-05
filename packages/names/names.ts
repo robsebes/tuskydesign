@@ -1,4 +1,4 @@
-import { getRandomItem } from '@tuskdesign/util';
+import { getRandomItem } from '@nxtest/util';
 
 export const NAMES = [
   "Brie",
@@ -99,7 +99,7 @@ export const NAMES = [
 ];
 
 export function getRandomName(): string {
-  return getRandomItem(NAMES);
+  return getRandomItem(NAMES) + "_v1.6.0";
 }
 
 export function newpr() {

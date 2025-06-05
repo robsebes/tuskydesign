@@ -1,4 +1,4 @@
-import { getRandomItem } from '@tuskdesign/util';
+import { getRandomItem } from '@nxtest/util';
 
 export type Animal = {
   name: string;

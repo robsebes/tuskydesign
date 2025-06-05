@@ -44,5 +44,12 @@
     "default": [
       "sharedGlobals"
     ]
+  },
+  "release": {
+    "projectsRelationship": "independent",
+    "releaseTagPattern": "release/{projectName}/{version}",
+    "changelog": {
+      "projectChangelogs": true
+    }
   }
 }
