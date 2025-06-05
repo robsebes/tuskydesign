@@ -1,6 +1,6 @@
 {
-  "name": "@tuskdesign/names",
-  "version": "1.4.0",
+  "name": "@nxtest/names",
+  "version": "1.5.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

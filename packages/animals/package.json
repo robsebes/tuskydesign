@@ -1,6 +1,6 @@
 {
-  "name": "@tuskdesign/animals",
-  "version": "1.4.0",
+  "name": "@nxtest/animals",
+  "version": "1.5.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tuskdesign/util": "*"
+    "@nxtest/util": "*"
   },
   "devDependencies": {
     "@types/node": "18.16.9",

@@ -1,6 +1,6 @@
 {
-  "name": "@tuskdesign/zoo",
-  "version": "1.4.0",
+  "name": "@nxtest/zoo",
+  "version": "1.5.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tuskdesign/animals": "1.4.0",
-    "@tuskdesign/names": "1.4.0"
+    "@nxtest/animals": "1.5.0",
+    "@nxtest/names": "1.5.0"
   },
   "devDependencies": {
     "@types/node": "18.16.9",
